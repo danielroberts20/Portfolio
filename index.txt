@@ -49,6 +49,7 @@ ML Design
 Designing ML models to gain insight
 
 alt = Web development icon 
+Web Back-end
 # High-quality development of sites at the professional level.
 Small scale web backend 
 
@@ -58,7 +59,7 @@ Mobile apps
 Mobile location logging
 
 alt = camera icon
-Photography
+Travel
 # I make high-quality photos of any category at a professional level.
 Travel and experiencing the world
 
